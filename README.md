@@ -1,6 +1,6 @@
 Bank Application
 
-In this application you can transfer money, loan money, check your recent transactions (deposits/withdrawals) and you can close the account.At the moment there are four accounts available for a log in :
+This application allows you to transfer money, loan money, view your recent transactions (deposits/withdrawals), and close your account. There are currently four accounts available for logging in:
 Username: js
 Password: 1111
 
